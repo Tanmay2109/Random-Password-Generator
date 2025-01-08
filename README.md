@@ -19,6 +19,7 @@ You can install the necessary package using pip:
 pip install pyperclip
 
 Setup and Usage
+
 Clone or download the repository.
 Run the Python script (password_generator.py).
 Set the desired password length and toggle the options for uppercase letters, numbers, and special characters.
