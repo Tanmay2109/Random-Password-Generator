@@ -24,3 +24,4 @@ Run the Python script (password_generator.py).
 Set the desired password length and toggle the options for uppercase letters, numbers, and special characters.
 Click the "Generate Password" button to create the password.
 Copy the password to the clipboard using the "Copy to Clipboard" button.
+
